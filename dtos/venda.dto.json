@@ -23,6 +23,7 @@
     "ano": "2019",
     "motor": "2.0" 
   },   
+  "codigoVenda": 1,
   "precoVenda": 110000.00,
   "dataHoraVenda":"2019-04-09T16:32:05"   
 }
