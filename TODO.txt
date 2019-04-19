@@ -13,7 +13,6 @@ OK - 12 - Formatar e organizar Aulas
 
 Pendências
 	Estudar pathMatch
-	Validar primeng-project
-	Validar em 2 componentes distinto - autocomplete exercício
-	Definir Objetos - CRUD
-	Exemplo de Fixação Observable e Promises - angular-project - listar clientes
+	criar código de Exercício FormsModule - [(ngModel)]
+	Verificar Objetos - CRUD
+	Validar exercício de CRUD
