@@ -12,7 +12,4 @@ OK - 11 - Desenvolver api
 OK - 12 - Formatar e organizar Aulas
 
 Pendências
-	Estudar pathMatch
-	criar código de Exercício FormsModule - [(ngModel)]
-	Verificar Objetos - CRUD
-	Validar exercício de CRUD
+	angular-primeng - menu com primeng de master para develop
