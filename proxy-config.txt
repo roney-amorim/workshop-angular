@@ -1,5 +1,4 @@
 npm config set strict-ssl false
 npm config set registry http://registry.npmjs.org/
-npm config set registry "https://registry.npmjs.org/"
-npm config set proxy http://user:password@10.41.77.150:8080
-npm config set https-proxy http://user:password@10.41.77.150:8080 
+npm config set proxy http://re035476:re_001@proxycenesp.resource.com.br:3128
+npm config set https-proxy http://re035476:re_001@proxycenesp.resource.com.br:3128
