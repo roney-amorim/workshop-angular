@@ -1,0 +1,19 @@
+CLIENTES
+	GET - {environment-url-base}/clientes 
+	GET - {environment-url-base}/clientes/{codigo} 
+	POST - {environment-url-base}/clientes 
+	PATCH - {environment-url-base}/clientes 
+	DELETE - {environment-url-base}/clientes/{codigo} 
+
+VEÍCULOS
+	GET - {environment-url-base}/veiculos 
+	GET - {environment-url-base}/ veiculos /{codigo} 
+	POST - {environment-url-base}/ veiculos 
+	PATCH - {environment-url-base}/ veiculos 
+	DELETE- {environment-url-base}/ veiculos /{codigo} 
+
+VENDAS
+	GET - {environment-url-base}/veiculos 
+	POST - {environment-url-base}/ veiculos 
+	DELETE - {environment-url-base}/ veiculos /{codigo} 
+
